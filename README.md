@@ -10,7 +10,7 @@
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Exemplo de Projeto Real](#exemplo-de-projeto-real)
+- [Exemplo de Projeto](#exemplo-de-projeto)
 
 ## Introdução
 
@@ -62,7 +62,7 @@ O SGE é composto por uma arquitetura modular que inclui sensores, controladores
 4. Analise os relatórios e gráficos gerados.
 5. Ajuste as configurações para otimizar o uso de energia.
 
-## Exemplo de Projeto Real
+## Exemplo de Projeto
 
 ### Projeto de Gerenciamento de Energia em um Campus Universitário
 
