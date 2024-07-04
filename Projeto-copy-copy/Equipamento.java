@@ -1,13 +1,13 @@
 public abstract class Equipamento {
-    protected double potencia; // Potência em Watts
-    protected double horasPorDia; // Horas de uso por dia
+    protected double potencia;
+    protected double horasPorDia; 
 
     public Equipamento(double potencia, double horasPorDia) {
         this.potencia = potencia;
         this.horasPorDia = horasPorDia;
     }
 
-    // Método abstrato para calcular o consumo de energia
+
     public abstract double calcularConsumo();
     
 
