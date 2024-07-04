@@ -15,6 +15,6 @@ public class DemandaMaquinas {
     }
 
     public static double calcularDemandaTotal(double potenciaPorMaquina, int numeroMaquinas) {
-        return (potenciaPorMaquina * numeroMaquinas) / 1000; // Conversão para kW
+        return (potenciaPorMaquina * numeroMaquinas) / 1000; 
     }
 }
