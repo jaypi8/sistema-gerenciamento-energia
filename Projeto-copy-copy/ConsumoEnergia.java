@@ -18,6 +18,6 @@ public class ConsumoEnergia {
     }
 
     public static double calcularConsumo(double potencia, double horas, double dias) {
-        return (potencia * horas * dias) / 1000; // Conversão para kWh
+        return (potencia * horas * dias) / 1000; 
     }
 }
