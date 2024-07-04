@@ -1,5 +1,5 @@
 public class Maquina extends Equipamento {
-    private double fatorPotencia; // Fator de Potência
+    private double fatorPotencia; 
 
     public Maquina(double potencia, double horasPorDia, double fatorPotencia) {
         super(potencia, horasPorDia);
