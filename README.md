@@ -24,6 +24,7 @@ Assim, a estrutura proposta das classes permite ao SGE realizar o monitoramento 
 - **Monitoramento em Tempo Real**: Fornecer dados em tempo real sobre o consumo de energia para analíse.
 - **Otimização de Energia**: a partir do monitoramento, tomar ações necessárias para a otimização de energia.
 - **Relatórios e Análises**: fornecer um relatório da nossa analíse para tomadas de decisões.
+- **Cálculo do Fator de Potência**: Fator de potência e a relação entre *potência ativa*(conversão de energia elétrica em outras formas de energia), que é medida em (kW), e *potência reativa*(mantém campos magnéticos e é medida em quiloVolt-Ampere reativo (kVAr). para que possamos usar em nossas analíses de otimização e monitoramento,pois ao saber o fator de potência podemos ver a eficiência energética de alguma máquina se está boa, baixa ou está desperdiçando energia.
 
 ## Integrantes
 
@@ -34,11 +35,33 @@ Assim, a estrutura proposta das classes permite ao SGE realizar o monitoramento 
 
 
 ## Problema:
--Com o crescimento de uma empresa também há um crescimento em suas demandas, tais como: Funcionários, Aperfeiçoamento do serviço, Aumento de Espaço e etc. Mas também, é notável o crescimento de suas despesas sendo uma delas a de energia elétrica. Uma indústria aprensenta diversas máquinas com diferentes funcionalidades, voltagem, potências que definirá um valor final a se pagar. Pensando nisso, pensamos em desenvolver uma ´´Cálculadora Enérgitica´´ para que um Engenheiro em uma grande indústria não precise perder muito tempo fazendo cálculos além de já imprimir um pequeno relatório de cada equipamento com possíveis melhorias para otimizar ou até mesmo para monitorar os gastos energético dos mesmo. Por isso, se fez tão essencial pensar na solução dessa problemática para que assim haja uma ferramenta ´´facilitadora´´ no processo do engenheiro ou técnico responsável.
+-Com o crescimento de uma empresa também há um crescimento em suas demandas, tais como: Funcionários, Aperfeiçoamento do serviço, Aumento de Espaço e etc. Mas também, é notável o crescimento de suas despesas sendo uma delas a de energia elétrica. Uma indústria aprensenta diversas máquinas com diferentes funcionalidades, voltagem, potências que definirá um valor final a se pagar. Pensando nisso, pensamos em desenvolver uma ´´Cálculadora Energética´´ para que um Engenheiro em uma grande indústria não precise perder muito tempo fazendo cálculos além de já imprimir um pequeno relatório de cada equipamento com possíveis melhorias para otimizar ou até mesmo para monitorar os gastos energético dos mesmo. Por isso, se fez tão essencial pensar na solução dessa problemática para que assim haja uma ferramenta ´´facilitadora´´ no processo do engenheiro ou técnico responsável.
+
+## Possíveis Cálculos:
+**Tipos de Potência**
+
+
+![Captura de tela 2024-07-04 080353](https://github.com/jaypi8/sistema-gerenciamento-energia/assets/167809129/9766d4be-8ead-49a0-ae3b-03fe3089bf4b)
+
+na imagem acima podemos ver o que é chamado "Triângulo das Potência", que é a forma geométrica da utilização das mesmas.
+
+## Potência Aparente:
+Potência Total de um circuito elétrico, instalação ou fonte de energia oferecida. Nada mais é que o somatório das potências (reativas e ativas), na imagem é a nossa hipotenusa e podemos considerar uma variável S
+
+## Potência Ativa:
+Potência ativa é o que realmente foi utilizado da energia para transformar em outras. É o aproveitamento de carga utilizada para realizar um trabalho de conversão muitas vezes em indústria em energia mecânica ou térmica. E esse mesmo tipo de potência que está presente em nossa conta de energia, e vai ser esse mesmo tipo de potência que provavelmente iremos focar mais, pois nos ajudará a ter uma noção dos gastos que nossos equipamentos está tendo. E representado pelo cateto adjacente e pode-se considerar uma variável P 
+
+## Reativa:
+Essa é oposta anterior. Ela é responsável por desenvolver o campo magnético para basear equipamentos que funcionam por indução, como transformadores e motores. Ela é representada pelo cateto oposto e sua variável Q
 
 
 
+![Captura de tela 2024-07-04 081159](https://github.com/jaypi8/sistema-gerenciamento-energia/assets/167809129/fe050c64-6c99-45e3-b25a-48402f5352c5)
 
+nota: De acordo com a resolução normativa N 414/201, da Agência Nacional de Energia Elétrica(ANEEL), o Fator de potência por padrão deve ter no mínimo 0,92. Caso seja inferior a isso, você estará sujeito a multas.
+
+## Referências:
+https://www.luterled.com.br/fator-de-potencia
 
 
 
