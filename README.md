@@ -89,6 +89,7 @@ Monitoramento constante: implementar sistemas de monitoramento e medição do fa
 
 ## Referências:
 https://www.luterled.com.br/fator-de-potencia
+
 Livro Instalações Elétricas Industriais, 10ª Edição 2023, De João Mamede Filho.
 
 
