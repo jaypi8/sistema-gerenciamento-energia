@@ -88,6 +88,7 @@ Monitoramento constante: implementar sistemas de monitoramento e medição do fa
 
 Nossa base de dados para o engenheiro colocar os dados de entrada e realizar a análise em relação à eficiência do sistema de energia.
 
+
 Um engenheiro pode usar o fator de potência em um sistema de gerenciamento para otimizar os gastos e melhorar a eficiência da energia através das seguintes estratégias:
 
 1. Monitoramento Contínuo do Fator de Potência
@@ -99,6 +100,8 @@ Análise de Dados:
 
 Identificar padrões de consumo e momentos de baixa eficiência.
 Detectar equipamentos ou processos que estão contribuindo para um fator de potência baixo.
+
+
 2. Correção do Fator de Potência
 Instalação de Bancos de Capacitores:
 
@@ -107,6 +110,8 @@ Ajustar os bancos de capacitores para operar automaticamente conforme a demanda 
 Uso de Filtros Ativos:
 
 Implementar filtros ativos de potência que podem ajustar dinamicamente a correção do fator de potência e também filtrar harmônicas.
+
+
 3. Otimização do Uso de Equipamentos
 Manutenção Preventiva:
 
@@ -116,6 +121,8 @@ Eficiência Energética em Motores:
 
 Utilizar motores de alta eficiência com menor consumo de potência reativa.
 Implementar controladores de velocidade variável (VFDs) para ajustar a velocidade dos motores conforme a necessidade.
+
+
 4. Gestão da Demanda
 Ajuste de Carga:
 
