@@ -134,6 +134,23 @@ Negociar contratos de energia com as concessionárias que ofereçam incentivos p
 Monitorar e ajustar a operação para evitar penalidades relacionadas a um fator de potência baixo.
 
 
+## Benefícios da Otimização do Fator de Potência
+Redução de Custos Energéticos:
+
+Redução das perdas de energia e aumento da eficiência, resultando em menores contas de energia.
+Evitar penalidades impostas pelas concessionárias de energia por baixo fator de potência.
+Melhoria da Capacidade do Sistema:
+
+Melhor uso da capacidade instalada, permitindo a adição de novas cargas sem a necessidade de grandes investimentos em infraestrutura.
+Aumento da Vida Útil dos Equipamentos:
+
+Redução do aquecimento excessivo e das falhas nos equipamentos, aumentando sua vida útil e diminuindo custos de manutenção e substituição.
+Sustentabilidade:
+
+Contribuir para a redução da pegada de carbono ao utilizar a energia de maneira mais eficiente e reduzir as perdas no sistema elétrico.
+Implementar e gerenciar o fator de potência de forma eficaz pode resultar em economias significativas, melhoria da eficiência operacional e sustentabilidade energética.
+
+
 ## Referências:
 https://www.luterled.com.br/fator-de-potencia
 
