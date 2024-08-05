@@ -1,9 +1,9 @@
-## Passo a passo de como foi realizado os testes dos códigos:
+Passo a passo de como foi realizado os testes dos códigos:
 
-## 1. Compreensão do Projeto
+1. Compreensão do Projeto
 Revisar a Documentação, visulizando os passos de cada código, vendo se há alguma restrição na classe, por exemplo: O fator de potência é um valor entre 0 e 1:
 realizarei os testes colocando valores menores que 0, valores entre 0 e 1, e valores maiores que 1 para analisar como o código irá funcionar, se vai compilar ou não.
 
-## 2: Identificar Casos de Teste
+2: Identificar Casos de Teste
 Essa parte anda em conjunto com a compreeção do projeto, porém tem algum passos a mais: 
 Identificar casos de teste é o processo de determinar cenários específicos que precisam ser verificados para garantir que o software funciona conforme o esperado
