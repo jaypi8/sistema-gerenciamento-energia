@@ -1,3 +1,5 @@
+Passo a passo das etapas de teste.
+
 1. Compreensão do Projeto:
 A primeira etapa envolveu uma revisão minuciosa da documentação do projeto, que foi essencial para entender os requisitos e as restrições de cada classe. 
 Exemplos específicos, como a verificação do fator de potência entre 0 e 1, permitiram testar o comportamento do código com valores fora do intervalo permitido, 
