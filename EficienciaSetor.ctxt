@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EficienciaSetor
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=equipamentos
+comment2.target=double\ calcularConsumoTotal(java.util.List)
+comment3.params=equipamentos
+comment3.target=double\ calcularFatorPotenciaMedio(java.util.List)
+numComments=4

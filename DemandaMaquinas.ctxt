@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DemandaMaquinas
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=potenciaPorMaquina\ numeroMaquinas
+comment2.target=double\ calcularDemandaTotal(double,\ int)
+numComments=3
