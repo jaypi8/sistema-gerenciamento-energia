@@ -1,9 +1,19 @@
-Passo a passo de como foi realizado os testes dos códigos:
+1. Compreensão do Projeto:
+A primeira etapa envolveu uma revisão minuciosa da documentação do projeto, que foi essencial para entender os requisitos e as restrições de cada classe. 
+Exemplos específicos, como a verificação do fator de potência entre 0 e 1, permitiram testar o comportamento do código com valores fora do intervalo permitido, 
+assegurando que as restrições fossem corretamente implementadas e validadas.
 
-1. Compreensão do Projeto
-Revisar a Documentação, visulizando os passos de cada código, vendo se há alguma restrição na classe, por exemplo: O fator de potência é um valor entre 0 e 1:
-realizarei os testes colocando valores menores que 0, valores entre 0 e 1, e valores maiores que 1 para analisar como o código irá funcionar, se vai compilar ou não.
+2. Identificação de Casos de Teste:
+Identificar casos de teste foi um processo contínuo e detalhado, onde cada cenário específico foi mapeado para garantir a cobertura completa das funcionalidades do sistema. 
+Essa fase foi fundamental para estruturar os testes de forma abrangente e eficaz.
 
-2: Identificar Casos de Teste
-Essa parte anda em conjunto com a compreeção do projeto, porém tem algum passos a mais: 
-Identificar casos de teste é o processo de determinar cenários específicos que precisam ser verificados para garantir que o software funciona conforme o esperado
+3. Implementação e Execução dos Testes:
+Na fase de implementação e execução, a interação entre diferentes componentes do sistema foi rigorosamente verificada através de testes regulares, especialmente após cada modificação no código. 
+Documentar os resultados e relatar os defeitos encontrados para as equipes de backend e frontend garantiu um ciclo contínuo de feedback e correção, 
+melhorando a qualidade do software.
+
+Conclusão
+A abordagem estruturada para os testes, desde a compreensão do projeto até a execução e documentação dos resultados, 
+assegurou que o sistema de gerenciamento de energia fosse robusto, confiável e em conformidade com os requisitos especificados. 
+
+Testador: Carlos Eduardo.
