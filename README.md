@@ -219,7 +219,9 @@ Redução de 138.8 kVAR
 Possíveis Economias Financeiras:
 
 Redução de multas por baixo fator de potência.
+
 Menores perdas de energia em cabos e transformadores.
+
 Maior capacidade disponível em sistemas de distribuição.
 
 ## Referências:
