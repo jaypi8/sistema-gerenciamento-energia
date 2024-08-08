@@ -151,6 +151,63 @@ Contribuir para a redução da pegada de carbono ao utilizar a energia de maneir
 Implementar e gerenciar o fator de potência de forma eficaz pode resultar em economias significativas, melhoria da eficiência operacional e sustentabilidade energética.
 
 
+Para mostrar dados reais de antes e depois da implementação de correção do fator de potência, precisamos considerar um exemplo típico em uma instalação industrial ou comercial. Vamos examinar um cenário hipotético onde uma fábrica implementou a correção do fator de potência.
+
+Cenário Hipotético:
+Antes da Correção do Fator de Potência:
+Potência ativa (P): 500 kW
+Potência reativa (Q): 300 kVAR
+Potência aparente (S): raiz de (P^2 + Q^2).
+
+S = raiz de (500^2 + 300^2) ≈ 583.1kVa
+
+Fator de Potência (FP):
+Fp = P/S
+Fp = 500/583.1 = 0.86
+
+Depois da Correção do Fator de Potência:
+Supondo que a instalação de capacitores corrigiu o fator de potência para 0.95.
+
+Potência ativa (P): 500 kW (permanece a mesma)
+Novo Fator de Potência (FP): 0.95
+
+Nova Potência aparente (S):
+S = 500/0.95 = 526.3 kVa 
+​
+Nova Potência reativa (Q):
+Q = raiz de (526.3^2 - 500^2) ≈ 161,2 kVAR
+
+Comparação:
+Antes da Correção:
+
+Potência ativa: 500 kW
+Potência reativa: 300 kVAR
+Potência aparente: 583.1 kVA
+Fator de Potência: 0.86
+Depois da Correção:
+
+Potência ativa: 500 kW
+Potência reativa: 161.2 kVAR
+Potência aparente: 526.3 kVA
+Fator de Potência: 0.95
+Benefícios Obtidos:
+Redução na Potência Aparente (kVA):
+
+Antes: 583.1 kVA
+Depois: 526.3 kVA
+Redução de 56.8 kVA
+Redução na Potência Reativa (kVAR):
+
+Antes: 300 kVAR
+Depois: 161.2 kVAR
+Redução de 138.8 kVAR
+
+Possíveis Economias Financeiras:
+
+Redução de multas por baixo fator de potência.
+Menores perdas de energia em cabos e transformadores.
+Maior capacidade disponível em sistemas de distribuição.
+
 ## Referências:
 https://www.luterled.com.br/fator-de-potencia
 
