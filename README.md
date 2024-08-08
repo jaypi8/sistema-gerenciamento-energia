@@ -181,25 +181,39 @@ Comparação:
 Antes da Correção:
 
 Potência ativa: 500 kW
+
 Potência reativa: 300 kVAR
+
 Potência aparente: 583.1 kVA
+
 Fator de Potência: 0.86
+
 Depois da Correção:
 
 Potência ativa: 500 kW
+
 Potência reativa: 161.2 kVAR
+
 Potência aparente: 526.3 kVA
+
 Fator de Potência: 0.95
+
 Benefícios Obtidos:
+
 Redução na Potência Aparente (kVA):
 
 Antes: 583.1 kVA
+
 Depois: 526.3 kVA
+
 Redução de 56.8 kVA
+
 Redução na Potência Reativa (kVAR):
 
 Antes: 300 kVAR
+
 Depois: 161.2 kVAR
+
 Redução de 138.8 kVAR
 
 Possíveis Economias Financeiras:
