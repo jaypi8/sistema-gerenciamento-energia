@@ -32,7 +32,8 @@ Durante a fase de implementação e execução dos testes, a interação entre d
 
 **3\. Implementação e Execução dos Testes:** Durante os testes, o JavaFX não conseguia localizar o diretório especificado, causando falhas na interface gráfica. Documentamos as ocorrências e iteramos correções, executando os testes para garantir a resolução do problema e a integridade do sistema.
 
-![][image1]
+![Captura de Tela (56)](https://github.com/user-attachments/assets/1c7a5d06-2bec-4b79-b9e1-a29a82364a37)
+[image1]
 
 **Erros:**
 
