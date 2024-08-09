@@ -179,5 +179,10 @@ public class EficienciaSetor {
         return fatorPotenciaTotal / maquinas.size();
     }
 }
-```
+Anexo Bluej e VSCODE:
+BLUEJ
+![Captura de Tela (14)](https://github.com/user-attachments/assets/f2b12815-c60e-4e4b-88f2-f714b8faeb0e)
+VSCODE:
+![Captura de Tela (15)](https://github.com/user-attachments/assets/fb365e1b-24a0-4a2e-9715-bf6ca7ad466b)
+
 
